@@ -1,0 +1,15 @@
+{
+    "rootDir" : "qml/Screens/",
+    "screens" : [
+        {
+            "id" : "SimpleView",
+            "view" : "SimpleView.qml",
+            "name" : "Simple View"
+        },
+        {
+            "id" : "Screen 2",
+            "view" : "Screen2.qml",
+            "name" : "Other Screen"
+        }
+    ]
+}
